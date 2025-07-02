@@ -1,4 +1,4 @@
-# 🧠 Mental Health in Tech – Streamlit Dashboard
+# 🧠 Mental Health in Tech – EDA
 
 This dashboard analyzes the 2014 OSMI survey to explore how personal and workplace factors affect the likelihood of seeking mental health treatment.
 
